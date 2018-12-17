@@ -1,0 +1,12 @@
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\bin\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.deps.json
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\bin\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.dll
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\bin\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.pdb
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\bin\Release\netcoreapp2.1\Conversion.Domain.dll
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\bin\Release\netcoreapp2.1\Conversion.Domain.pdb
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\obj\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.csprojAssemblyReference.cache
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\obj\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.csproj.CoreCompileInputs.cache
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\obj\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.AssemblyInfoInputs.cache
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\obj\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.AssemblyInfo.cs
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\obj\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.csproj.CopyComplete
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\obj\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.dll
+C:\Projetos\ConversionAPI\Conversion.CrossCutting.Helpers\obj\Release\netcoreapp2.1\Conversion.CrossCutting.Helpers.pdb

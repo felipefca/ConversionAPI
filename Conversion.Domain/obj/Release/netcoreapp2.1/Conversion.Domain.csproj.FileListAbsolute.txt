@@ -1,0 +1,9 @@
+C:\Projetos\ConversionAPI\Conversion.Domain\bin\Release\netcoreapp2.1\Conversion.Domain.deps.json
+C:\Projetos\ConversionAPI\Conversion.Domain\bin\Release\netcoreapp2.1\Conversion.Domain.dll
+C:\Projetos\ConversionAPI\Conversion.Domain\bin\Release\netcoreapp2.1\Conversion.Domain.pdb
+C:\Projetos\ConversionAPI\Conversion.Domain\obj\Release\netcoreapp2.1\Conversion.Domain.csprojAssemblyReference.cache
+C:\Projetos\ConversionAPI\Conversion.Domain\obj\Release\netcoreapp2.1\Conversion.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ConversionAPI\Conversion.Domain\obj\Release\netcoreapp2.1\Conversion.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ConversionAPI\Conversion.Domain\obj\Release\netcoreapp2.1\Conversion.Domain.AssemblyInfo.cs
+C:\Projetos\ConversionAPI\Conversion.Domain\obj\Release\netcoreapp2.1\Conversion.Domain.dll
+C:\Projetos\ConversionAPI\Conversion.Domain\obj\Release\netcoreapp2.1\Conversion.Domain.pdb
