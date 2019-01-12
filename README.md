@@ -12,9 +12,9 @@
 - Unit Tets
 - Integration Tests
 - Xunit, Mock, NSubstitute, FluentAssertions
-- Code Coverage: 94,89%
+- Code Coverage: 95,76%
 
-![alt text](http://i67.tinypic.com/vy5xlk.png)
+![alt text](http://i67.tinypic.com/2nun5ap.png)
 
 ### Passos
 
